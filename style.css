@@ -3,7 +3,12 @@ body {
   padding: 0px;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: Oswald, sans-serif;
 }
 
@@ -21,7 +26,8 @@ h1, h2, h3, h4, h5, h6 {
 .header-text-box {
   text-align: center;
   width: 800px;
-  margin-inline: auto; padding-top: 240px;
+  margin-inline: auto;
+  padding-top: 240px;
 }
 
 p.header-desc {
@@ -66,7 +72,8 @@ a.donate-btn {
 .flexible-box-items {
   display: flex;
   width: 900px;
-  margin-inline: auto; padding: 20px;
+  margin-inline: auto;
+  padding: 20px;
   margin-bottom: 30px;
 }
 
@@ -88,7 +95,8 @@ h2.flexible-box-color {
 
 .place-holder-items {
   width: 900px;
-  margin-inline: auto; padding: 40px 0px;
+  margin-inline: auto;
+  padding: 40px 0px;
   text-align: center;
 }
 
@@ -106,7 +114,8 @@ input.place-holder-txt {
 
 .donate-plan-items {
   width: 800px;
-  margin-inline: auto; text-align: center;
+  margin-inline: auto;
+  text-align: center;
   margin-top: 100px;
   line-height: 40px;
   margin-bottom: 55px;
@@ -239,7 +248,8 @@ section.they-need-survive {
 }
 .get-updates-text {
   width: 800px;
-  margin-inline: auto; text-align: center;
+  margin-inline: auto;
+  text-align: center;
   margin-top: 100px;
   line-height: 40px;
   margin-bottom: 55px;
@@ -308,4 +318,3 @@ footer.donate-footer span {
   font-size: 22px;
   color: white;
 }
-
