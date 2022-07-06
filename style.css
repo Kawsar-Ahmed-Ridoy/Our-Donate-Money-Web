@@ -53,7 +53,7 @@ a.donate-btn{
 }
 
 .single-box-text h1 {
-    font-size: 70px;
+    font-size: 85px;
 }
 
 .single-box-text p {
@@ -98,4 +98,58 @@ input.place-holder-txt {
 
 .place-holder-items hr {
     margin-bottom: 100px;
+}
+.donate-plan-items{
+    width: 800px;
+    margin-inline: auto;
+    text-align: center;
+    margin-top: 100px;
+    line-height: 40px;
+    margin-bottom: 55px;
+}
+.donate-plan-items h1 {
+    font-size: 85px;
+}
+.donate-plan-items p {
+    font-size: 25px;
+    color: dimgray;
+}
+.donate-plan-box {
+    display: flex;
+    justify-content: center;
+}
+
+.donate-plan-one {
+    width: 20%;
+    background: #cfe1f1;
+    padding: 20px 50px;
+    border-radius: 5px;
+    margin: 65px 15px;
+}
+.donate-plan-two {
+    width: 20%;
+    padding: 20px 50px;
+    border-radius: 5px;
+    margin: 65px 15px;
+    background: antiquewhite;
+}
+.donate-plan-three {
+    width: 20%;
+    padding: 20px 50px;
+    border-radius: 5px;
+    margin: 65px 15px;
+    background: pink;
+}
+.donate-plan-box img {
+    padding: 30px 10px;
+    width: 80px;
+}
+
+.donate-plan-box h3 {
+    font-size: 40px;
+    word-spacing: 5px;
+} 
+.donate-plan-box p {
+    font-size: 25px;
+    color: dimgray;
 }
