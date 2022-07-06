@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+  }
+  h1,h2,h3,h4,h5,h6{
+      font-family: 'Oswald', sans-serif;
+  }
+  .header-bg{
+      background:
+      url(images/donation9.jpg);
+      height: 100vh;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+  .header-title{
+      font-size: 85px;
+      font-weight: bold;
+      color: white;
+  }
+  .header-text-box{
+      text-align: center;
+      width: 800px;
+      margin-inline: auto;
+      padding-top: 240px;
+  }
+  p.header-desc {
+    font-size: 25px;
+    color: white;
+    margin: -40px 0px 40px 0px;
+    line-height: 35px;
+    margin-bottom: 50px;
+}
+a.donate-btn{
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 20px;
+    border-radius: 5px;
+    background: #fb5200;
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+}
